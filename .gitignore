@@ -153,3 +153,4 @@ cython_debug/
 pdf_to_xlsx/
 pdf/*
 excel/*
+.DS_Store
